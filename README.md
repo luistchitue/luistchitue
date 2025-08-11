@@ -59,8 +59,8 @@ My work spans from **AI research and deep learning** to **production-grade web a
 
 - **Portfolio:** [luistchitue.com](https://luistchitue.com)  
 - **LinkedIn:** [linkedin.com/in/luistchitue](https://linkedin.com/in/luistchitue)  
-- **Twitter/X:** [@luistchitue](https://twitter.com/luistchitue)  
-- **Email:** luistchitue@example.com  
+- **Twitter/X:** [@LTchitue](https://twitter.com/luistchitue)  
+- **Email:** ls04af@gmail.com  
 
 ---
 
